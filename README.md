@@ -4,7 +4,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/note-taking-app.git
+   git clone https://github.com/martinm1994/note-taking-app
 
 2. Install dependancies:
     cd note-taking-app
